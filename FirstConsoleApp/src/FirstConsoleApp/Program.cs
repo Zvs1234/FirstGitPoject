@@ -9,7 +9,7 @@ namespace FirstConsoleApp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Test2");
 
         }
     }
