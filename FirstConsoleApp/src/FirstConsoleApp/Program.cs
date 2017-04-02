@@ -9,6 +9,7 @@ namespace FirstConsoleApp
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("Test2");
             Console.WriteLine("Test");
             Console.WriteLine("Test4");
 
